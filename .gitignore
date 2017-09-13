@@ -2,3 +2,5 @@
 /build
 /.git
 /.vscode
+.package-lock.json
+.gitignore
